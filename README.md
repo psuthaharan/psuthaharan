@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :books: I’m currently studying paranoia and belief updating through the lens of reinforcement learning
+- :books: I’m interested in studying mental illnesses through the lens of computational models
 - :surfer: I’m currently riding the Deep Learning wave 
 - 📫 How to reach me: @PraveenS_ on Twitter
 <!--
