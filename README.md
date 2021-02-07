@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying paranoia and belief updating through the lens of reinforcement learning
-- 🌱 I’m currently riding the Deep Learning wave :surfer:
+- :books: I’m currently studying paranoia and belief updating through the lens of reinforcement learning
+- :surfer: I’m currently riding the Deep Learning wave 
 - 📫 How to reach me: @PraveenS_ on Twitter
 <!--
 **psuthaharan/psuthaharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
