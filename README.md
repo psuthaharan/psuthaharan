@@ -5,10 +5,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@PraveenS_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PraveenS_)](https://twitter.com/PraveenS_)
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=psuthaharan.visitor-badge)
-
 <!--
 **psuthaharan/psuthaharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
