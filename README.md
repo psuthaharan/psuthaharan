@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:books: I’m interested in studying mental illnesses through the lens of computational models
+:books: I’m interested in the computational approaches to mental health
 
 :surfer: I’m currently riding the Deep Learning wave
 
