@@ -2,8 +2,6 @@
 
 :books: I’m interested in the computational approaches to mental health
 
-:surfer: I’m currently riding the Deep Learning wave
-
 [![Twitter Badge](https://img.shields.io/badge/-@PraveenS_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PraveenS_)](https://twitter.com/PraveenS_)
 
 <!--
